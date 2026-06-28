@@ -1,51 +1,71 @@
 # Alessandra Vargas
 
-**Soon-to-be Actuary | UNAM, Facultad de Ciencias**   
-**Technical Advisor, Collective Insurance** @ Lockton · 3.4 yrs  
-Transitioning to **banking & financial risk** roles
+Actuarial Scientist · Facultad de Ciencias, UNAM  
+Technical Advisor @ **Lockton** · 3.4 yrs in collective Health & life insurance  
+→ Transitioning into **banking & financial risk**
 
 ---
 
-## About me
+## What I actually do
 
-I work at the intersection of **actuarial science, risk quantification, and financial modeling**.  
-At Lockton, I advise on technical underwriting and negotiation of collective Health and life insurance products — building intuition for risk pricing, loss estimation, and portfolio behavior.
+At Lockton I manage the full technical lifecycle of corporate insurance accounts —
+from risk analysis to final placement:
 
-Now channeling that foundation toward **banking risk**: credit, market, and operational risk.
+- **Negotiation & underwriting** — negotiate premiums and conditions directly with
+  insurers for collective health and life accounts
+- **Portfolio scale** — corporate accounts ranging from **$5M to $40M MXN** per client
+- **Analytical work** — claims analysis, morbidity trends, loss ratios, market
+  benchmarking, and findings metrics
+- **Harmonization** — when subsidiaries acquire other companies, I consolidate and
+  homologate their insurance programs into a unified structure
 
 ---
 
-## Featured project
+## Project I built at work
+
+### Corporate Insurance Quoter *(private — available on request)*
+
+A web tool that **cuts the quoting process from 2+ hours to under 10 minutes**
+for accounts eligible under broker-insurer agreements.
+
+- Queries multiple insurers simultaneously
+- Auto-generates **quotation slips and output slips** in Excel format
+- Produces a **full corporate presentation** with all conditions and pricing
+- Built to handle high-volume, standardized accounts at scale
+
+> Built with Python · Excel automation · Web frontend
+
+---
+
+## Personal project
 
 ### [Monte Carlo VaR/CVaR Analysis](https://github.com/alessavargas/montecarlo)
-A modular Python library for market risk quantification using Monte Carlo simulation.
+
+Modular Python library for market risk quantification via Monte Carlo simulation.
 
 - 4 methods: **Cholesky** (Normal & Empirical) · **PCA** (Normal & Empirical)
-- Captures fat tails, skewness, and complex correlations
-- Data integration via `yfinance` · CSV export · visualizations
-
-> Built to explore the same risk metrics used in Basel III internal models.
+- Captures fat tails, skewness, and cross-asset correlations
+- Built to explore the risk metrics at the core of Basel III internal models
 
 ---
 
 ## Stack
 
 ```
-Python · NumPy · pandas · scipy · yfinance
+Python · NumPy · pandas · scipy · Excel automation · yfinance
 ```
-Learning: `SQL` · `R` · fixed income & credit risk models
+Currently building: `SQL` · `R` · credit risk models (PD / LGD / EAD)
 
 ---
 
-## Currently exploring
+## What I'm moving toward
 
-- Credit risk modeling (PD, LGD, EAD)
-- Regulatory frameworks: Basel III / IFRS 17
-- Connections between actuarial reserves and banking provisions
+The work I do — pricing risk, reading loss experience, modeling uncertainty —
+maps directly onto banking risk. I'm actively targeting **credit, market, and
+operational risk analyst roles**, where actuarial rigor meets financial regulation.
+
+Interested in: Basel III · IFRS 17 · stress testing · risk-based capital
 
 ---
 
-## Let's connect
-
-Open to **risk analyst roles** in banking, insurance, or fintech.  
-📩 [alesssxia@icloud.com] · 💼 [www.linkedin.com/in/-alessandravargas]
+📩 alesssxia@icloud.com · 💼 [linkedin.com/in/-alessandravargas](https://linkedin.com/in/-alessandravargas)
